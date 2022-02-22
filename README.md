@@ -1,14 +1,37 @@
+<div id="top"></div>
+<!--
+*** Thanks for checking out the awesome-mute-words repository! 
+-->
+
+
+<!-- PROJECT HEADER -->
+<br />
 <div align="center">
-    <h1>Awesome Mute Words</h1>
-    A curated list of words and phrases to mute for a grift-free, tech-twitter experience!
+    <a href="https://github.com/medelman17/awesome-mute-words">
+        <img src="https://raw.githubusercontent.com/medelman17/awesome-mute-words/main/logo.png" alt="logo" width="450" height="450" />
+    </a>
+    <h1 align="center">Awesome Mute Words</h1>
     <p align="center">
-<!--         <a href="#Services">Services</a> •
-        <a href="#about">About</a> •
-        <a href="#installation">Installation</a> •
-        <a href="#resources">Resources</a> •
-        <a href="#roadmap">Roadmap</a> •
-        <a href="#license">License</a> -->
+        A curated list of words and phrases to mute from your timeline to ensure yourself a delightful, grift-free, tech-twitter experience!
+    <br />
     </p>
-    <hr />
 </div>
+
+***
+
+# General
+* Tech
+
+# Engagement Bait
+* As a Developer
+
+# Web3
+* NFT
+* DAO
+
+# Crypto
+* FOMO
+* HODL
+
+
 
