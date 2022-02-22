@@ -21,9 +21,21 @@
 
 # General
 * Tech
+* Web development
+* Programming language
+* Learnt
+* Clone
+* Fullstack
+* Coding
 
 # Engagement Bait
-* As a Developer
+* As a developer
+* Here's a list
+* #100DaysOfCode
+* Step-by-step
+* Please share
+
+# Venture Capital
 
 # Web3
 * NFT
