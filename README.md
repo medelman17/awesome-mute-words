@@ -34,6 +34,7 @@
 * #100DaysOfCode
 * Step-by-step
 * Please share
+* Smash that
 
 # Venture Capital
 
@@ -44,6 +45,13 @@
 # Crypto
 * FOMO
 * HODL
+* Ens
+
+# Misc
+* Mute
+* Block
+* Wordle
+
 
 
 
